@@ -5,3 +5,7 @@
 1. Think about ideas
 2. Write them down
 3. Start coding
+
+_Blabla_
+**Blabla**
+**_Blabla_**
